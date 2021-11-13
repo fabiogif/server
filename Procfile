@@ -1,0 +1,2 @@
+web: adonis migration:run
+
